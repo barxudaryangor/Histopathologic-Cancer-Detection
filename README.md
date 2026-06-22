@@ -172,3 +172,5 @@ bash scripts/train.sh
 | ResNet-34 | `checkpoints/ResNet_34.pt` |
 | EfficientNet-B0 | `checkpoints/EfficientNet_B0.pt` |
 | DenseNet-121 | `checkpoints/DenseNet_121.pt` |
+
+
